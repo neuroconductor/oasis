@@ -18,3 +18,8 @@ sticker\.png
 ^sticker\.png$
 ^README\.Rmd$
 ^cran-comments\.md$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
